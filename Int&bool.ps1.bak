@@ -1,0 +1,5 @@
+sabarish = 1
+ravi = 2
+a = "saba"
+
+print_name = [sabarish, ravi, a]
