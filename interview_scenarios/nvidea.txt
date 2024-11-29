@@ -1,0 +1,5 @@
+Your program should accept comma separated alphanumeric characters ( 15-20) , print those characters with number of times repeated and their position in sequence.
+E.g.
+A,c,f,4,6,j,1,0,1,c,A
+ 
+A : 2 : 0,10
